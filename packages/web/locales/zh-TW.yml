@@ -1,6 +1,6 @@
 layout:
   topbar:
-    title: Laf Cloud
+    title: laf 云
     user:
       logout: Exit
       reset-password: Reset Password
