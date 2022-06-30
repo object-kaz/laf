@@ -1,0 +1,19 @@
+layout:
+  topbar:
+    title: Laf Cloud
+    user:
+      logout: Exit
+      reset-password: Reset Password
+pages:
+  account:
+    login:
+      account: Account
+      login-btn: Login
+      password: Password
+      title: Login
+    register: Register
+utils:
+  form:
+    email: Email is invalid
+    password: '{name} requires at least 8 digits'
+    required: '{name} cannot be empty'
